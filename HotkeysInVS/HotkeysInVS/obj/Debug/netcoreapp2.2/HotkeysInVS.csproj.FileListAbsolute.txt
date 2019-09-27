@@ -1,0 +1,11 @@
+C:\repos\HotkeysInVS\HotkeysInVS\bin\Debug\netcoreapp2.2\HotkeysInVS.deps.json
+C:\repos\HotkeysInVS\HotkeysInVS\bin\Debug\netcoreapp2.2\HotkeysInVS.runtimeconfig.json
+C:\repos\HotkeysInVS\HotkeysInVS\bin\Debug\netcoreapp2.2\HotkeysInVS.runtimeconfig.dev.json
+C:\repos\HotkeysInVS\HotkeysInVS\bin\Debug\netcoreapp2.2\HotkeysInVS.dll
+C:\repos\HotkeysInVS\HotkeysInVS\bin\Debug\netcoreapp2.2\HotkeysInVS.pdb
+C:\repos\HotkeysInVS\HotkeysInVS\obj\Debug\netcoreapp2.2\HotkeysInVS.csprojAssemblyReference.cache
+C:\repos\HotkeysInVS\HotkeysInVS\obj\Debug\netcoreapp2.2\HotkeysInVS.csproj.CoreCompileInputs.cache
+C:\repos\HotkeysInVS\HotkeysInVS\obj\Debug\netcoreapp2.2\HotkeysInVS.AssemblyInfoInputs.cache
+C:\repos\HotkeysInVS\HotkeysInVS\obj\Debug\netcoreapp2.2\HotkeysInVS.AssemblyInfo.cs
+C:\repos\HotkeysInVS\HotkeysInVS\obj\Debug\netcoreapp2.2\HotkeysInVS.dll
+C:\repos\HotkeysInVS\HotkeysInVS\obj\Debug\netcoreapp2.2\HotkeysInVS.pdb

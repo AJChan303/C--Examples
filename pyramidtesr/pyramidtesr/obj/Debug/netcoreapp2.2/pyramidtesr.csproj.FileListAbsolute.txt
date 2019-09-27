@@ -1,0 +1,11 @@
+C:\repos\pyramidtesr\pyramidtesr\bin\Debug\netcoreapp2.2\pyramidtesr.deps.json
+C:\repos\pyramidtesr\pyramidtesr\bin\Debug\netcoreapp2.2\pyramidtesr.runtimeconfig.json
+C:\repos\pyramidtesr\pyramidtesr\bin\Debug\netcoreapp2.2\pyramidtesr.runtimeconfig.dev.json
+C:\repos\pyramidtesr\pyramidtesr\bin\Debug\netcoreapp2.2\pyramidtesr.dll
+C:\repos\pyramidtesr\pyramidtesr\bin\Debug\netcoreapp2.2\pyramidtesr.pdb
+C:\repos\pyramidtesr\pyramidtesr\obj\Debug\netcoreapp2.2\pyramidtesr.csprojAssemblyReference.cache
+C:\repos\pyramidtesr\pyramidtesr\obj\Debug\netcoreapp2.2\pyramidtesr.csproj.CoreCompileInputs.cache
+C:\repos\pyramidtesr\pyramidtesr\obj\Debug\netcoreapp2.2\pyramidtesr.AssemblyInfoInputs.cache
+C:\repos\pyramidtesr\pyramidtesr\obj\Debug\netcoreapp2.2\pyramidtesr.AssemblyInfo.cs
+C:\repos\pyramidtesr\pyramidtesr\obj\Debug\netcoreapp2.2\pyramidtesr.dll
+C:\repos\pyramidtesr\pyramidtesr\obj\Debug\netcoreapp2.2\pyramidtesr.pdb

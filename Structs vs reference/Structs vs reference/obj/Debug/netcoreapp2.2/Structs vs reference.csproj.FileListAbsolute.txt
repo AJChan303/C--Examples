@@ -1,0 +1,11 @@
+C:\repos\Structs vs reference\Structs vs reference\bin\Debug\netcoreapp2.2\Structs vs reference.deps.json
+C:\repos\Structs vs reference\Structs vs reference\bin\Debug\netcoreapp2.2\Structs vs reference.runtimeconfig.json
+C:\repos\Structs vs reference\Structs vs reference\bin\Debug\netcoreapp2.2\Structs vs reference.runtimeconfig.dev.json
+C:\repos\Structs vs reference\Structs vs reference\bin\Debug\netcoreapp2.2\Structs vs reference.dll
+C:\repos\Structs vs reference\Structs vs reference\bin\Debug\netcoreapp2.2\Structs vs reference.pdb
+C:\repos\Structs vs reference\Structs vs reference\obj\Debug\netcoreapp2.2\Structs vs reference.csprojAssemblyReference.cache
+C:\repos\Structs vs reference\Structs vs reference\obj\Debug\netcoreapp2.2\Structs vs reference.csproj.CoreCompileInputs.cache
+C:\repos\Structs vs reference\Structs vs reference\obj\Debug\netcoreapp2.2\Structs vs reference.AssemblyInfoInputs.cache
+C:\repos\Structs vs reference\Structs vs reference\obj\Debug\netcoreapp2.2\Structs vs reference.AssemblyInfo.cs
+C:\repos\Structs vs reference\Structs vs reference\obj\Debug\netcoreapp2.2\Structs vs reference.dll
+C:\repos\Structs vs reference\Structs vs reference\obj\Debug\netcoreapp2.2\Structs vs reference.pdb

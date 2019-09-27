@@ -1,0 +1,11 @@
+C:\repos\RelativesSolution\RelativesProject\bin\Debug\netcoreapp2.2\RelativesProject.deps.json
+C:\repos\RelativesSolution\RelativesProject\bin\Debug\netcoreapp2.2\RelativesProject.runtimeconfig.json
+C:\repos\RelativesSolution\RelativesProject\bin\Debug\netcoreapp2.2\RelativesProject.runtimeconfig.dev.json
+C:\repos\RelativesSolution\RelativesProject\bin\Debug\netcoreapp2.2\RelativesProject.dll
+C:\repos\RelativesSolution\RelativesProject\bin\Debug\netcoreapp2.2\RelativesProject.pdb
+C:\repos\RelativesSolution\RelativesProject\obj\Debug\netcoreapp2.2\RelativesProject.csprojAssemblyReference.cache
+C:\repos\RelativesSolution\RelativesProject\obj\Debug\netcoreapp2.2\RelativesProject.csproj.CoreCompileInputs.cache
+C:\repos\RelativesSolution\RelativesProject\obj\Debug\netcoreapp2.2\RelativesProject.AssemblyInfoInputs.cache
+C:\repos\RelativesSolution\RelativesProject\obj\Debug\netcoreapp2.2\RelativesProject.AssemblyInfo.cs
+C:\repos\RelativesSolution\RelativesProject\obj\Debug\netcoreapp2.2\RelativesProject.dll
+C:\repos\RelativesSolution\RelativesProject\obj\Debug\netcoreapp2.2\RelativesProject.pdb

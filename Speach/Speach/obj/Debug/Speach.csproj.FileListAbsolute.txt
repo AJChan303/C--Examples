@@ -1,0 +1,7 @@
+C:\repos\Speach\Speach\bin\Debug\Speach.exe.config
+C:\repos\Speach\Speach\bin\Debug\Speach.exe
+C:\repos\Speach\Speach\bin\Debug\Speach.pdb
+C:\repos\Speach\Speach\obj\Debug\Speach.csprojAssemblyReference.cache
+C:\repos\Speach\Speach\obj\Debug\Speach.csproj.CoreCompileInputs.cache
+C:\repos\Speach\Speach\obj\Debug\Speach.exe
+C:\repos\Speach\Speach\obj\Debug\Speach.pdb

@@ -1,0 +1,11 @@
+C:\repos\InterfacewithMike\InterfacewithMike\obj\Debug\netcoreapp2.2\InterfacewithMike.csprojAssemblyReference.cache
+C:\repos\InterfacewithMike\InterfacewithMike\obj\Debug\netcoreapp2.2\InterfacewithMike.csproj.CoreCompileInputs.cache
+C:\repos\InterfacewithMike\InterfacewithMike\obj\Debug\netcoreapp2.2\InterfacewithMike.AssemblyInfoInputs.cache
+C:\repos\InterfacewithMike\InterfacewithMike\obj\Debug\netcoreapp2.2\InterfacewithMike.AssemblyInfo.cs
+C:\repos\InterfacewithMike\InterfacewithMike\bin\Debug\netcoreapp2.2\InterfacewithMike.deps.json
+C:\repos\InterfacewithMike\InterfacewithMike\bin\Debug\netcoreapp2.2\InterfacewithMike.runtimeconfig.json
+C:\repos\InterfacewithMike\InterfacewithMike\bin\Debug\netcoreapp2.2\InterfacewithMike.runtimeconfig.dev.json
+C:\repos\InterfacewithMike\InterfacewithMike\bin\Debug\netcoreapp2.2\InterfacewithMike.dll
+C:\repos\InterfacewithMike\InterfacewithMike\bin\Debug\netcoreapp2.2\InterfacewithMike.pdb
+C:\repos\InterfacewithMike\InterfacewithMike\obj\Debug\netcoreapp2.2\InterfacewithMike.dll
+C:\repos\InterfacewithMike\InterfacewithMike\obj\Debug\netcoreapp2.2\InterfacewithMike.pdb

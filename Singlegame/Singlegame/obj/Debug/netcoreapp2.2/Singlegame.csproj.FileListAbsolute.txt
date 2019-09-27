@@ -1,0 +1,10 @@
+C:\repos\Singlegame\Singlegame\obj\Debug\netcoreapp2.2\Singlegame.csproj.CoreCompileInputs.cache
+C:\repos\Singlegame\Singlegame\obj\Debug\netcoreapp2.2\Singlegame.AssemblyInfoInputs.cache
+C:\repos\Singlegame\Singlegame\obj\Debug\netcoreapp2.2\Singlegame.AssemblyInfo.cs
+C:\repos\Singlegame\Singlegame\bin\Debug\netcoreapp2.2\Singlegame.deps.json
+C:\repos\Singlegame\Singlegame\bin\Debug\netcoreapp2.2\Singlegame.runtimeconfig.json
+C:\repos\Singlegame\Singlegame\bin\Debug\netcoreapp2.2\Singlegame.runtimeconfig.dev.json
+C:\repos\Singlegame\Singlegame\bin\Debug\netcoreapp2.2\Singlegame.dll
+C:\repos\Singlegame\Singlegame\bin\Debug\netcoreapp2.2\Singlegame.pdb
+C:\repos\Singlegame\Singlegame\obj\Debug\netcoreapp2.2\Singlegame.dll
+C:\repos\Singlegame\Singlegame\obj\Debug\netcoreapp2.2\Singlegame.pdb

@@ -1,0 +1,11 @@
+C:\repos\HackerTest\HackerTest\bin\Debug\netcoreapp2.2\HackerTest.deps.json
+C:\repos\HackerTest\HackerTest\bin\Debug\netcoreapp2.2\HackerTest.runtimeconfig.json
+C:\repos\HackerTest\HackerTest\bin\Debug\netcoreapp2.2\HackerTest.runtimeconfig.dev.json
+C:\repos\HackerTest\HackerTest\bin\Debug\netcoreapp2.2\HackerTest.dll
+C:\repos\HackerTest\HackerTest\bin\Debug\netcoreapp2.2\HackerTest.pdb
+C:\repos\HackerTest\HackerTest\obj\Debug\netcoreapp2.2\HackerTest.csprojAssemblyReference.cache
+C:\repos\HackerTest\HackerTest\obj\Debug\netcoreapp2.2\HackerTest.csproj.CoreCompileInputs.cache
+C:\repos\HackerTest\HackerTest\obj\Debug\netcoreapp2.2\HackerTest.AssemblyInfoInputs.cache
+C:\repos\HackerTest\HackerTest\obj\Debug\netcoreapp2.2\HackerTest.AssemblyInfo.cs
+C:\repos\HackerTest\HackerTest\obj\Debug\netcoreapp2.2\HackerTest.dll
+C:\repos\HackerTest\HackerTest\obj\Debug\netcoreapp2.2\HackerTest.pdb

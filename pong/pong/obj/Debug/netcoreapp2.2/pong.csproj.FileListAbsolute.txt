@@ -1,0 +1,8 @@
+C:\repos\pong\pong\obj\Debug\netcoreapp2.2\pong.csproj.CoreCompileInputs.cache
+C:\repos\pong\pong\obj\Debug\netcoreapp2.2\pong.AssemblyInfoInputs.cache
+C:\repos\pong\pong\obj\Debug\netcoreapp2.2\pong.AssemblyInfo.cs
+C:\repos\pong\pong\bin\Debug\netcoreapp2.2\pong.deps.json
+C:\repos\pong\pong\bin\Debug\netcoreapp2.2\pong.runtimeconfig.json
+C:\repos\pong\pong\bin\Debug\netcoreapp2.2\pong.runtimeconfig.dev.json
+C:\repos\pong\pong\bin\Debug\netcoreapp2.2\pong.dll
+C:\repos\pong\pong\obj\Debug\netcoreapp2.2\pong.csprojAssemblyReference.cache

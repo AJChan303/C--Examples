@@ -1,0 +1,11 @@
+C:\repos\IFCSdemos\IFCSdemos\bin\Debug\netcoreapp2.2\IFCSdemos.deps.json
+C:\repos\IFCSdemos\IFCSdemos\bin\Debug\netcoreapp2.2\IFCSdemos.runtimeconfig.json
+C:\repos\IFCSdemos\IFCSdemos\bin\Debug\netcoreapp2.2\IFCSdemos.runtimeconfig.dev.json
+C:\repos\IFCSdemos\IFCSdemos\bin\Debug\netcoreapp2.2\IFCSdemos.dll
+C:\repos\IFCSdemos\IFCSdemos\obj\Debug\netcoreapp2.2\IFCSdemos.csprojAssemblyReference.cache
+C:\repos\IFCSdemos\IFCSdemos\obj\Debug\netcoreapp2.2\IFCSdemos.csproj.CoreCompileInputs.cache
+C:\repos\IFCSdemos\IFCSdemos\obj\Debug\netcoreapp2.2\IFCSdemos.AssemblyInfoInputs.cache
+C:\repos\IFCSdemos\IFCSdemos\obj\Debug\netcoreapp2.2\IFCSdemos.AssemblyInfo.cs
+C:\repos\IFCSdemos\IFCSdemos\bin\Debug\netcoreapp2.2\IFCSdemos.pdb
+C:\repos\IFCSdemos\IFCSdemos\obj\Debug\netcoreapp2.2\IFCSdemos.dll
+C:\repos\IFCSdemos\IFCSdemos\obj\Debug\netcoreapp2.2\IFCSdemos.pdb

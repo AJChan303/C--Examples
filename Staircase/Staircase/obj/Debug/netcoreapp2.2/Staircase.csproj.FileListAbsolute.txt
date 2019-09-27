@@ -1,0 +1,11 @@
+C:\repos\Staircase\Staircase\bin\Debug\netcoreapp2.2\Staircase.deps.json
+C:\repos\Staircase\Staircase\bin\Debug\netcoreapp2.2\Staircase.runtimeconfig.json
+C:\repos\Staircase\Staircase\bin\Debug\netcoreapp2.2\Staircase.runtimeconfig.dev.json
+C:\repos\Staircase\Staircase\bin\Debug\netcoreapp2.2\Staircase.dll
+C:\repos\Staircase\Staircase\bin\Debug\netcoreapp2.2\Staircase.pdb
+C:\repos\Staircase\Staircase\obj\Debug\netcoreapp2.2\Staircase.csprojAssemblyReference.cache
+C:\repos\Staircase\Staircase\obj\Debug\netcoreapp2.2\Staircase.csproj.CoreCompileInputs.cache
+C:\repos\Staircase\Staircase\obj\Debug\netcoreapp2.2\Staircase.AssemblyInfoInputs.cache
+C:\repos\Staircase\Staircase\obj\Debug\netcoreapp2.2\Staircase.AssemblyInfo.cs
+C:\repos\Staircase\Staircase\obj\Debug\netcoreapp2.2\Staircase.dll
+C:\repos\Staircase\Staircase\obj\Debug\netcoreapp2.2\Staircase.pdb
